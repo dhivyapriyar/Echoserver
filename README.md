@@ -1,3 +1,6 @@
+# NAME: DHIVYAPRIYA. R
+# REG.NO.: 212222230032
+# DATE: 
 # Echoserver
 
 Echo server and client using python socket
